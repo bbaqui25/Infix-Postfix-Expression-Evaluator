@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Proj5Base
+public class ProjBase
 {
 	static boolean debugMode = false;
 	
